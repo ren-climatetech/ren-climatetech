@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ren-climatetech
 - 👀 I’m interested in carbon removal
 - 🌱 I’m currently learning how to become a software developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on sustainability software dev
+- 📫 How to reach me envrconsulting@gmail.com
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: average snowborder 🤓
 <!---
 ren-climatetech/ren-climatetech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
